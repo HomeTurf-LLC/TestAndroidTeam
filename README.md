@@ -20,7 +20,7 @@ allprojects {
 ```.gradle
 dependencies {
     ...
-    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.0'
+    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.1'
 }
 ```
 
@@ -125,7 +125,7 @@ We will provide all required values for your team upon request.
 ...
 ```
 
-6. (OPTIONAL) If using Auth0, copy the TestHomeTurfAuth0Service file from this project into your own project.
+6. (OPTIONAL) If using Auth0, copy the [TestHomeTurfAuth0Service](./app/src/main/java/com/hometurf/testandroidteam/TeamHomeTurfAuth0Service.java) file from this project into your own project.
 
 7. Add the following to your launching activity, and then hook up the function to the element in the layout that will launch the app:
 
