@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Android Team</string>
+    <string name="home_turf_url">https://ci-app.hometurfapp.com</string>
+    <string name="home_turf_team_id">4415ce44-0f24-11e2-8525-18a905767e44</string>
+    <string name="home_turf_com_auth0_client_id"></string>
+    <string name="home_turf_com_auth0_domain"></string>
+    <string name="home_turf_com_auth0_audience"></string>
+    <string name="home_turf_com_auth0_scheme"></string>
+    <string name="home_turf_use_auth0">false</string>
+</resources>
