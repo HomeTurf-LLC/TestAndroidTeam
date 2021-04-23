@@ -85,7 +85,7 @@ At `res/values/strings.xml`
 ```
 <resources>
     ...
-    <string name="home_turf_url">https://www.hometurfapp.com</string>
+    <string name="home_turf_url">https://app.hometurfapp.com</string>
     <string name="home_turf_team_id">YOUR_TEAM_ID</string>
     <string name="home_turf_com_auth0_client_id"></string>
     <string name="home_turf_com_auth0_domain"></string>
