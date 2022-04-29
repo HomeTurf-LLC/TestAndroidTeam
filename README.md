@@ -20,7 +20,7 @@ allprojects {
 ```.gradle
 dependencies {
     ...
-    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.1'
+    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.8'
 }
 ```
 
@@ -46,7 +46,7 @@ android {
 ```
 dependencies {
     ...
-    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.0' # already added in 2a
+    implementation 'com.github.HomeTurf-LLC:HomeTurfAndroidLibraryApp:1.0.8' # already added in 2a
 
     implementation 'com.auth0.android:auth0:2.0.0'
     implementation 'com.auth0.android:jwtdecode:2.0.0'
